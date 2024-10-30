@@ -1,2 +1,2 @@
-# celi
-TUGAS FULLSTACK MODIFIKASI SIDEBAR DAN CONTAINER DAN DIAGRAM TIMBUL
+# Admin-Landing-Page-jQuery-Exercise-
+Admin Landing Page jQuery (Exercise)
